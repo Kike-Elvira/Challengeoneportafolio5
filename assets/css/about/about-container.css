@@ -1,0 +1,8 @@
+.about__container{
+    background: var(--cor-de-fundo);
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    align-self: stretch;
+    padding: 8rem;
+}

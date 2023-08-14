@@ -1,0 +1,12 @@
+/*Sección Menu*/
+
+.menu{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 8rem;
+    padding-right: 8rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+

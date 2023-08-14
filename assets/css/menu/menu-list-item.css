@@ -1,0 +1,9 @@
+.menu__list__item{
+    padding: 1rem;
+}
+ 
+
+
+.menu__list__item--bold{
+   font-weight: bold;
+}
